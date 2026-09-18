@@ -12,9 +12,9 @@ function About() {
             <h1 className="pb-5 font-bold">Languages</h1>
           </div>
           <div>
-            <p className="text-lg pb-1 pl-5">Maltese - Native</p>
-            <p className="text-lg pb-1 pl-5">English - Fluent</p>
-            <p className="text-lg pb-1 pl-5">German - Basic</p>
+            <p className="text-lg pb-1 pl-4">Maltese - Native</p>
+            <p className="text-lg pb-1 pl-4">English - Fluent</p>
+            <p className="text-lg pb-1 pl-4">German - Basic</p>
           </div>
         </div>
 
