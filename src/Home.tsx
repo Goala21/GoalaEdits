@@ -46,14 +46,12 @@ function Home() {
       </div>
 
       <div className="border-l-2 border-[#E24E3C] pl-6">
-        <h2 className="text-2xl font-medium text-white mb-3">Education</h2>
+        <h2 className="text-2xl font-medium text-white mb-3">Services</h2>
 
           <p className="text-neutral-400 leading-relaxed">
-              My name is Samuel. I'm passionate about technology and creativity —
-              video editing started as a hobby in secondary school, recording
-              myself playing games and experimenting with edits, until I decided
-              to take it seriously and build a career around video editing,
-              content creation, and programming.
+            I offer many different services, including video editing, content creation, and programming.
+            I have my own youtube channel where I make my own content, and I have worked with different clients.
+            This website was creating by me using React, TypeScript, Tailwind CSS, and Vite.  
           </p>
       </div>
 
