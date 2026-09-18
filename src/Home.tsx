@@ -1,7 +1,6 @@
 import backwardsShot2 from "./Photos/Backwards-Shot-2.jpg";
 import LandscapeShot from "./Photos/Landscape-Shot-Sideways.jpg";
 import PortraitShotFront from "./Photos/Portrait-Shot-Front.jpg";
-import BackwardsShow from "./Photos/Backwards-Shot.jpg";
 import { Link } from "react-router-dom";
 
 function Home() {
